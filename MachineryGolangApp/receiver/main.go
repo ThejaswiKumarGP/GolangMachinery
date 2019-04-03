@@ -1,7 +1,7 @@
 package main
 
 import (
-	examplerTasks "basicCrudApplication/tasks"
+	examplerTasks "MachineryGolangApp/tasks"
 
 	"github.com/RichardKnop/machinery/v1"
 	"github.com/RichardKnop/machinery/v1/config"

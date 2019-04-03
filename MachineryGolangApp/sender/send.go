@@ -1,7 +1,7 @@
 package main
 
 import (
-	examplerTasks "basicCrudApplication/tasks"
+	examplerTasks "MachineryGolangApp/tasks"
 	"context"
 	fmt "fmt"
 	"time"
